@@ -1,24 +1,5 @@
-# README
+# Micro Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple rails app that models reddit's database schema, minus the ability to comment on comments.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Part of the Rails tutorial from the Odin Project
